@@ -1,4 +1,4 @@
-## Desenvolvimento Poc com Camunda Automation
+### Desenvolvimento Poc com Camunda Automation
 
 
  - Documentação:
@@ -8,5 +8,7 @@
   https://start.camunda.com/
 
 
-### Fluxo criado com Camunda Modeler
+#### Fluxo criado com Camunda Modeler
  ![img.png](img.png)
+ 
+ - arquivo de configuração encontra-se dentro resources - (SolicitarCredito.bpmn)
