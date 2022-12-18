@@ -1,0 +1,18 @@
+camunda.bpm.admin-user:
+  id: admin
+  password: admin
+
+  camunda.bpm.admin-user:
+    id: admin
+    password: admin
+    firstName: Administrador
+  camunda.bpm.filter:
+    create: Tarefas
+
+  spring:
+    jersey:
+      application-path: mba
+
+
+server:
+  port: 9888
